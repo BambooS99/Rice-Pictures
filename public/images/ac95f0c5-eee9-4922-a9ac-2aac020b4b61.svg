@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="Marquee-svg" fill="currentColor" aria-hidden="true" style="height: 34px; transform: translateY(3.4px); overflow: visible;">
+        <g class="Marquee-path-group" transform="translate(0, 1.7000000000000002)">
+          <path class="Marquee-path" fill="none" stroke="transparent" stroke-width="0" d="M-550,22.508000000000003  L-550,22.508000000000003 S-183.15,22.508000000000003 0,22.508000000000003 S366.85,22.508000000000003 550,22.508000000000003 S916.85,22.508000000000003 1100,22.508000000000003 S1466.85,22.508000000000003 1650,22.508000000000003 S2016.85,22.508000000000003 2200,22.508000000000003 S2566.85,22.508000000000003 2750,22.508000000000003" stroke-dasharray="469 12 " id="yui_3_17_2_1_1713561526042_7131"></path>
+        </g>
+        <text>
+          <textPath class="Marquee-svg-text" href="#yui_3_17_2_1_1713561526042_7131"><tspan class="Marquee-svg-text" x="0">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="481">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="962">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="1443">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="1924">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="2405">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="2886">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan><tspan class="Marquee-svg-text" x="3367">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan></textPath>
+        </text>
+        <text>
+          <textPath class="Marquee-svg-group" visibility="hidden" href="#yui_3_17_2_1_1713561526042_7131">
+            
+              <tspan class="Marquee-svg-text">'VOLADOR' 'FINDING XIAO' 'HIGHER WAY'</tspan>
+            
+          </textPath>
+        </text>
+        <g class="Marquee-hitbox" data-hitbox="" aria-labelledby="ariaLabelyui_3_17_2_1_1713561526042_7131">
+          <g class="Marquee-path-hitbox-group" transform="translate(0, -5.6270000000000024)">
+            <path class="Marquee-path-hitbox" fill="none" stroke="transparent" d="M-550,22.508000000000003  L-550,22.508000000000003 S-183.15,22.508000000000003 0,22.508000000000003 S366.85,22.508000000000003 550,22.508000000000003 S916.85,22.508000000000003 1100,22.508000000000003 S1466.85,22.508000000000003 1650,22.508000000000003 S2016.85,22.508000000000003 2200,22.508000000000003 S2566.85,22.508000000000003 2750,22.508000000000003" id="yui_3_17_2_1_1713561526042_7131" stroke-width="34"></path>
+            <path class="Marquee-path-hitbox-focus-outline" fill="none" stroke="transparent" stroke-width="2px" d="
+      M-550,34
+       L-550,30.6 S-183.15,30.6 0,30.6 S366.85,30.6 550,30.6 S916.85,30.6 1100,30.6 S1466.85,30.6 1650,30.6 S2016.85,30.6 2200,30.6 S2566.85,30.6 2750,30.6
+      M-550,3.4000000000000004
+       L-550,3.4000000000000004 S-183.15,3.4000000000000004 0,3.4000000000000004 S366.85,3.4000000000000004 550,3.4000000000000004 S916.85,3.4000000000000004 1100,3.4000000000000004 S1466.85,3.4000000000000004 1650,3.4000000000000004 S2016.85,3.4000000000000004 2200,3.4000000000000004 S2566.85,3.4000000000000004 2750,3.4000000000000004
+    " style="transform: translateY(3.4px);"></path>
+          </g>
+        </g>
+      </svg>

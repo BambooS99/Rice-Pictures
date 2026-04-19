@@ -1,0 +1,9 @@
+import './SectionHeading.css';
+
+export default function SectionHeading({ children, className = '' }) {
+  return (
+    <h2 className={`section-heading ${className}`.trim()}>
+      {children}
+    </h2>
+  );
+}

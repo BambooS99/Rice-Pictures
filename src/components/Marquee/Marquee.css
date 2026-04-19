@@ -1,0 +1,29 @@
+.marquee {
+  @apply overflow-hidden whitespace-nowrap;
+}
+
+.marquee__track {
+  display: flex;
+  white-space: nowrap;
+  animation: marquee-scroll 8s linear infinite;
+}
+
+.marquee__item {
+  @apply mx-12 text-white text-5xl font-bold uppercase cursor-pointer transition-colors;
+  font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.marquee__item:hover {
+  color: #2b5797;
+}
+
+@media (min-width: 768px) {
+  .marquee__item {
+    @apply text-8xl;
+  }
+}
+
+@keyframes marquee-scroll {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}

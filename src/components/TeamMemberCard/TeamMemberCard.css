@@ -1,0 +1,29 @@
+.team-card {
+  @apply flex flex-col text-center items-center px-3;
+}
+
+.team-card__image-wrapper {
+  @apply aspect-square bg-white w-full rounded-full mb-8 overflow-hidden shadow-sm;
+}
+
+.team-card__image {
+  @apply object-cover w-full h-full rounded-full transition-transform duration-500;
+}
+
+.team-card__image:hover {
+  @apply scale-105;
+}
+
+.team-card__name {
+  @apply text-xl font-bold mb-3;
+}
+
+@media (min-width: 768px) {
+  .team-card__name {
+    font-size: 22px;
+  }
+}
+
+.team-card__role {
+  @apply text-xs font-bold tracking-wider text-black mt-2 uppercase;
+}

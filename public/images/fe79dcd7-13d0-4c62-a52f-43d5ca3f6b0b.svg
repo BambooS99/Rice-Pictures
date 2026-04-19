@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="Marquee-svg" fill="currentColor" aria-hidden="true" style="height: 179px; transform: translateY(17.9px); overflow: visible;">
+        <g class="Marquee-path-group" transform="translate(0, 8.950000000000001)">
+          <path class="Marquee-path" fill="none" stroke="transparent" stroke-width="0" d="M-550,118.498  L-550,118.498 S-183.15,118.498 0,118.498 S366.85,118.498 550,118.498 S916.85,118.498 1100,118.498 S1466.85,118.498 1650,118.498 S2016.85,118.498 2200,118.498 S2566.85,118.498 2750,118.498" stroke-dasharray="860 64 " id="yui_3_17_2_1_1717722313543_50972" stroke-dashoffset="46"></path>
+        </g>
+        <text>
+          <textPath class="Marquee-svg-text" href="#yui_3_17_2_1_1717722313543_50972" startOffset="-46"><tspan class="Marquee-svg-text" x="0">FINDING XIAO</tspan><tspan class="Marquee-svg-text" x="924">FINDING XIAO</tspan><tspan class="Marquee-svg-text" x="1848">FINDING XIAO</tspan><tspan class="Marquee-svg-text" x="2772" style="display: block;">FINDING XIAO</tspan><tspan class="Marquee-svg-text" x="3696" style="display: none;">FINDING XIAO</tspan></textPath>
+        </text>
+        <text>
+          <textPath class="Marquee-svg-group" visibility="hidden" href="#yui_3_17_2_1_1717722313543_50972">
+            
+              <tspan class="Marquee-svg-text">FINDING XIAO</tspan>
+            
+          </textPath>
+        </text>
+        <a class="Marquee-hitbox" data-hitbox="" href="/finding-xiao-documentary" target="_self" aria-labelledby="ariaLabelyui_3_17_2_1_1717722313543_50972">
+          <g class="Marquee-path-hitbox-group" transform="translate(0, -29.624499999999998)">
+            <path class="Marquee-path-hitbox" fill="none" stroke="transparent" d="M-550,118.498  L-550,118.498 S-183.15,118.498 0,118.498 S366.85,118.498 550,118.498 S916.85,118.498 1100,118.498 S1466.85,118.498 1650,118.498 S2016.85,118.498 2200,118.498 S2566.85,118.498 2750,118.498" id="yui_3_17_2_1_1717722313543_50972" stroke-width="179"></path>
+            <path class="Marquee-path-hitbox-focus-outline" fill="none" stroke="transparent" stroke-width="2px" d="
+      M-550,179
+       L-550,161.1 S-183.15,161.1 0,161.1 S366.85,161.1 550,161.1 S916.85,161.1 1100,161.1 S1466.85,161.1 1650,161.1 S2016.85,161.1 2200,161.1 S2566.85,161.1 2750,161.1
+      M-550,17.900000000000002
+       L-550,17.900000000000002 S-183.15,17.900000000000002 0,17.900000000000002 S366.85,17.900000000000002 550,17.900000000000002 S916.85,17.900000000000002 1100,17.900000000000002 S1466.85,17.900000000000002 1650,17.900000000000002 S2016.85,17.900000000000002 2200,17.900000000000002 S2566.85,17.900000000000002 2750,17.900000000000002
+    " style="transform: translateY(17.9px);"></path>
+          </g>
+        </a>
+      </svg>
