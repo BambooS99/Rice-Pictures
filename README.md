@@ -1,6 +1,7 @@
 # Rice Pictures
 
 The official website for **Rice Pictures** — a media company focused on uplifting marginalized voices through film, documentary, and music video production.
+<img width="2537" height="1301" alt="image" src="https://github.com/user-attachments/assets/4ba26650-4846-403d-aae3-8b6c52f091e6" />
 
 ---
 
