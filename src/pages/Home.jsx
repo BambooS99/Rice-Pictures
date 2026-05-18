@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="bg-rice-cream min-h-[200vh]">
       {/* Hero / Welcome Section */}
-      <section className="relative min-h-[110vh] w-full flex flex-col items-center justify-start pt-[120px] pb-32">
+      <section className="relative min-h-[110vh] w-full flex flex-col items-center justify-start pt-[200px] pb-32">
         {/* Background Image - Mountain landscape */}
         <div className="absolute inset-x-0 top-0 h-full w-full opacity-60">
            <img 
@@ -14,15 +14,14 @@ export default function Home() {
            />
         </div>
         
-        {/* Top Floating Text */}
-        <div className="z-10 relative mb-12 text-center w-full px-4">
-          <h1 className="text-[50px] md:text-[90px] font-extrabold text-white tracking-tighter drop-shadow-lg">
-            Welcome to Rice Pictures
-          </h1>
-        </div>
-
-        {/* Video Player Embed Display */}
+        {/* Video Player with overlapping text */}
         <div className="z-20 relative w-[90%] max-w-5xl aspect-video bg-black shadow-2xl group cursor-pointer border border-white/20">
+          {/* Overlapping Title */}
+          <div className="absolute -top-[0.75em] left-0 right-0 z-30 px-2">
+            <h1 className="text-[clamp(2rem,7vw,5.5rem)] font-extrabold text-rice-cream tracking-tighter leading-none drop-shadow-lg">
+              Welcome to Rice Pictures
+            </h1>
+          </div>
            <img 
               src="/images/1757426369883.jpg_4.webp" 
               alt="Video Thumbnail" 
@@ -50,12 +49,13 @@ export default function Home() {
       {/* Yellow Strip Section */}
       <section className="bg-rice-yellow py-32 mt-[15vh]">
         <div className="scrolling-marquee text-white text-5xl md:text-8xl font-bold uppercase overflow-hidden whitespace-nowrap">
-          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'VOLADOR' </span>
           <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
-          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'HIGHER WAY' </span>
-          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'VOLADOR' </span>
           <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
-          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'HIGHER WAY' </span>
+          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
+          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
+          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
+          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
+          <span className="mx-12 hover:text-[#2b5797] transition-colors cursor-pointer"> 'FINDING XIAO' </span>
         </div>
       </section>
 
